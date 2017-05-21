@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/feco/AndroidStudioProjects/pi1/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/feco/.android/build-cache/681b2884c93a9807fd4997b8d59bc3289d95bc89/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/feco/AndroidStudioProjects/pi1/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/feco/.android/build-cache/681b2884c93a9807fd4997b8d59bc3289d95bc89/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/feco/AndroidStudioProjects/pi1/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/feco/.android/build-cache/681b2884c93a9807fd4997b8d59bc3289d95bc89/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/feco/AndroidStudioProjects/pi1/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/home/feco/.android/build-cache/681b2884c93a9807fd4997b8d59bc3289d95bc89/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/feco/AndroidStudioProjects/pi1/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/feco/.android/build-cache/681b2884c93a9807fd4997b8d59bc3289d95bc89/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/feco/AndroidStudioProjects/pi1/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/home/feco/.android/build-cache/681b2884c93a9807fd4997b8d59bc3289d95bc89/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/feco/AndroidStudioProjects/pi1/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/feco/.android/build-cache/681b2884c93a9807fd4997b8d59bc3289d95bc89/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/feco/AndroidStudioProjects/pi1/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/feco/.android/build-cache/681b2884c93a9807fd4997b8d59bc3289d95bc89/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/feco/AndroidStudioProjects/pi1/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/feco/.android/build-cache/681b2884c93a9807fd4997b8d59bc3289d95bc89/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/feco/AndroidStudioProjects/pi1/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/feco/.android/build-cache/681b2884c93a9807fd4997b8d59bc3289d95bc89/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    }
+]

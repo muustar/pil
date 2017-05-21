@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/feco/AndroidStudioProjects/pi1/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/feco/.android/build-cache/681b2884c93a9807fd4997b8d59bc3289d95bc89/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/feco/AndroidStudioProjects/pi1/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/feco/.android/build-cache/681b2884c93a9807fd4997b8d59bc3289d95bc89/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/feco/AndroidStudioProjects/pi1/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/feco/.android/build-cache/681b2884c93a9807fd4997b8d59bc3289d95bc89/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/feco/AndroidStudioProjects/pi1/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/feco/.android/build-cache/681b2884c93a9807fd4997b8d59bc3289d95bc89/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    }
+]
